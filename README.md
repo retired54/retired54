@@ -12,7 +12,8 @@
 
 <!-- ASCII Banner -->
 <p align="center">                                                             
-<pre>                                                                            
+<pre style="color:red; display:inline;">
+                                                                            
                                                                                  ██
       ██ ██  ██               ███╗   ███╗██╗   ██     ██ ██              ██     
       ██       ██             ████╗ ████║██║   ██     ██                 ██║     ██║████╗ ████║
@@ -78,19 +79,23 @@
 <!--  STATS -->
 ### 📊  Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ilyass&show_icons=true&theme=chartreuse-dark&title_color=red&icon_color=red&text_color=green&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=retired&show_icons=true&theme=chartreuse-dark&title_color=red&icon_color=red&text_color=green&bg_color=000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyass&theme=highcontrast&ring=red&fire=green&currStreakLabel=green"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=N-retired&theme=highcontrast&ring=red&fire=green&currStreakLabel=green"/>
 </p>
 
 ---
 
 <!-- LANGS -->
 ### 🔝 Most Used Languages  
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass&layout=compact&theme=dark&title_color=red&text_color=green&bg_color=000000"/>
+
+<p align="center" style="background-color:black; padding:15px; border-radius:10px;">
+  <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue"/>
+  <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
+  <img src="https://img.shields.io/badge/C-white?style=for-the-badge&logo=c&logoColor=555555"/>
+  <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
 </p>
 
 ---
@@ -129,33 +134,16 @@
 
 ---
 
-<!-- FUN FACTS -->
-### 🕶️ Fun Facts  
 
-- I code best at **3 AM** under a red light 🌙  
-- My laptop background is always **Matrix Rain** 💚  
-- I love breaking things to **understand how they work** 💀  
-- Music: **Dark Synthwave / Cyberpunk Beats** 🎶  
-- I drink more **coffee than blood in my veins** ☕  
 
----
 
 <!-- ANIMATED GIF BACKGROUND -->
 <p align="center">
   <img src="https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif" width="600"/>
 </p>
 
----
 
-<!-- EXTRA: MATRIX CODE SECTION -->
-### 🧩 Matrix Code  
 
-```js
-function enterMatrix() {
-    console.log("Wake up, Neo... 🔮");
-    console.log("The Matrix has you... 💀");
-    console.log("Follow the white rabbit... 🐇");
-    console.log("Knock, knock, hacker... 😈");
-}
 
-enterMatrix();
+
+
