@@ -1,3 +1,4 @@
+https://www.flamingtext.com/logo/Design-Alien-Glow-Animation?text=real+muslim+TOP++P&_loc=wizard
 <h1 align="center">
   <span style="color:red;">REAL</span> 
   <span style="color:green;">MUSLIM</span>
@@ -6,10 +7,7 @@
 <h2 align="center" style="color:brown;">
   PROGRAMMER
 </h2>
-<p align="center">
-  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" 
-       alt="REAL MUSLIM PROGRAMMER" />
-</p>
+
 
 
 
