@@ -1,19 +1,28 @@
-<p align="center">
-  <kbd>#REAL <span style="color:white;">#MUSLIM*</span></kbd>
-</p>
+<!-- GitHub Pro Hacker Style Header -->
 
 <p align="center">
-  <b><i>Programmer</i></b>
+  <img src="https://img.shields.io/badge/REAL-MUSLIM-red?style=for-the-badge&logo=github" alt="REAL MUSLIM"/>
 </p>
 
+<h1 align="center">
+  💻 Programmer ⚡ Cybersecurity
+</h1>
+
 <p align="center">
-  REAL MUSLIM
+  <img src="https://img.shields.io/badge/Skills-Web%20Dev-blue?style=for-the-badge&logo=visual-studio-code" alt="Skills"/>
+  <img src="https://img.shields.io/badge/Skills-Cybersecurity-green?style=for-the-badge&logo=hackthebox" alt="Skills"/>
 </p>
 
-<!-- Optional: Add neon/fancy effect using a GIF -->
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" width="200"/>
-</p>
+
+
+<pre align="center" style="text-align:center;">
+██████╗ ███████╗ █████╗ ██╗     ███████╗██╗     
+██╔══██╗██╔════╝██╔══██╗██║     ██╔════╝██║     
+██████╔╝█████╗  ███████║██║     █████╗  ██║     
+██╔═══╝ ██╔══╝  ██╔══██║██║     ██╔══╝  ██║     
+██║     ███████╗██║  ██║███████╗███████╗███████╗
+╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
+</pre>
 
 
 <!-- ASCII Banner -->
