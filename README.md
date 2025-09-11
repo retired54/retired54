@@ -1,33 +1,16 @@
-<!-- GitHub Pro Hacker Style Header -->
+
 
 <p align="center">
-  <img src="https://img.shields.io/badge/REAL-MUSLIM-red?style=for-the-badge&logo=github" alt="REAL MUSLIM"/>
+  <img src="https://img.shields.io/badge/REAL-red?style=for-the-badge&logo=github&logoColor=white" alt="REAL"/>
+  <img src="https://img.shields.io/badge/MUSLIM-green?style=for-the-badge&logo=github&logoColor=white" alt="MUSLIM"/>
 </p>
 
-<h1 align="center">
-  💻 Programmer ⚡ Cybersecurity
-</h1>
+<h2 align="center">PROGRAMMER</h2>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Skills-Web%20Dev-blue?style=for-the-badge&logo=visual-studio-code" alt="Skills"/>
-  <img src="https://img.shields.io/badge/Skills-Cybersecurity-green?style=for-the-badge&logo=hackthebox" alt="Skills"/>
+  <img src="https://media.giphy.com/media/l0HlQ7LRalrpXfOFO/giphy.gif" width="200" alt="moving effect"/>
 </p>
 
-
-
-<pre align="center" style="text-align:center;">
-██████╗ ███████╗ █████╗ ██╗     ███████╗██╗     
-██╔══██╗██╔════╝██╔══██╗██║     ██╔════╝██║     
-██████╔╝█████╗  ███████║██║     █████╗  ██║     
-██╔═══╝ ██╔══╝  ██╔══██║██║     ██╔══╝  ██║     
-██║     ███████╗██║  ██║███████╗███████╗███████╗
-╚═╝     ╚══════╝╚═╝  ╚═╝╚══════╝╚══════╝╚══════╝
-</pre>
-
-
-<!-- ASCII Banner -->
-<p align="center">                                                             
-<pre style="color:red; display:inline;">
                                                                             
                            / /                                               ██
       ██ ██  ██           / /   ███╗   ███╗██╗   ██     ██ ██        ██     
