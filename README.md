@@ -6,6 +6,10 @@
 <h2 align="center" style="color:brown;">
   PROGRAMMER
 </h2>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/DenverCoder1/readme-typing-svg/master/demo.svg" 
+       alt="REAL MUSLIM PROGRAMMER" />
+</p>
 
 
 
