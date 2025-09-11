@@ -1,10 +1,5 @@
-<p align="center">
-  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="REAL MUSLIM moving" width="400"/>
-</p>
+<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/22f3e0fc-33e0-442a-8b00-43fa03d02073" />
 
-<p align="center" style="font-size:32px; font-weight:bold;">
-  PROGRAMMER
-</p>
 
                                                                             
                            / /                                               ██
