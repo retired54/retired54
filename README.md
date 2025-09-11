@@ -1,7 +1,7 @@
 <!--  Hacker Profile  -->
 
 <!-- HEADER -->
-<h1 align="center" style="color:red">
+<h1 align="center" style="color:white; background-color:black; padding:10px; border-radius:10px;">
    Programmer 
 </h1>
 <h3 align="center" style="color:green">
@@ -124,8 +124,8 @@
 - 2021 → Explored Kali Linux and Metasploit  
 - 2022 → Started GitHub journey  
 - 2023 → Mixed Cybersecurity with Full-Stack Dev  
-- 2024 → Creating evil, stylish tools  
-- 2025 → Expanding the hacker empire 🔮  
+- 2024 → Creating tools
+- 2025 → Expanding the hacker empire 
 
 ---
 
