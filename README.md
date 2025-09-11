@@ -1,11 +1,13 @@
 <!--  Hacker Profile  -->
 
 <!-- HEADER -->
-<h1 align="center" style="color🔴; background-color🌲; padding:10px; border-radius:10px;">
-   Programmer 
+<!-- HEADER -->
+<h1 align="center" style="color:red; background-color:black; padding:15px; border-radius:15px; font-family:monospace; text-shadow:2px 2px 5px #00ff00;">
+   Programmer
 </h1>
-<h3 align="center" style="color:green">
-  Cybersecurity | Web Development 
+
+<h3 align="center" style="color:#00ff00; background-color:#111111; padding:10px; border-radius:10px; font-family:monospace; text-shadow:1px 1px 3px #ff0000;">
+  Cybersecurity | Web Development
 </h3>
 
 ---
