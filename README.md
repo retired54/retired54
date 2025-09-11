@@ -2,7 +2,7 @@
 
 <!-- HEADER -->
 <h1 align="center" style="color:red">
-  😈 Evil Programmer 🔮
+   Programmer 
 </h1>
 <h3 align="center" style="color:green">
   Cybersecurity | Web Development | Hacking the Matrix
@@ -11,15 +11,23 @@
 ---
 
 <!-- ASCII Banner -->
-<p align="center">
-<pre>
-███████╗██╗   ██╗██╗██╗     
-██╔════╝██║   ██║██║██║     
-███████╗██║   ██║██║██║     
-╚════██║██║   ██║██║██║     
-███████║╚██████╔╝██║███████╗
-╚══════╝ ╚═════╝ ╚═╝╚══════╝
-</pre>
+<p align="center">                                                             
+<pre>                                                                            ██
+
+      ██ ██  ██               ███╗   ███╗██╗   ██     ██ ██              ██
+      ██       ██             ████╗ ████║██║   ██     ██                 ██║     ██║████╗ ████║
+      ██  ██  ██              ██╔████╔██║██║   ██       ██               ██║     ██║██╔████╔██║
+      ██      ██              ██║╚██╔╝██║██║   ██         ██             ██║     ██║██║╚██╔╝██║
+      ██        ██            ██║ ╚═╝ ██║╚██████╔╝    ██ ██             ╗███████╗██║██║ ╚═╝ ██║
+                                                         
+
+
+
+
+
+  
+         
+</pre> 
 </p>
 
 ---
@@ -29,7 +37,7 @@
 
 - 💀 Passionate about **Cybersecurity** and **Web Development**  
 - 🔮 Exploring **deep knowledge in hacking and programming**  
-- 🌐 Living inside the **Matrix** of code and chaos  
+- 🌐 Living inside the **code**   
 - 🧠 Believer in **continuous learning** and **breaking systems**  
 - ⚡ Motto: *"Code is law, exploit is freedom"*  
 
@@ -42,10 +50,10 @@
 
 ---
 
-<!-- EVIL QUOTE -->
-### 🔥 Hacker's Quote  
+<!-- Quote -->
+### Hacker's Quote  
 <p align="center" style="color:green">
-  "The quieter you become, the more you can hear..."  
+  "Life has not been bestowed upon all"  
 </p>
 
 ---
@@ -67,14 +75,14 @@
 
 ---
 
-<!-- EVIL STATS -->
-### 📊 Evil Stats  
+<!--  STATS -->
+### 📊  Stats  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=BogossBely&show_icons=true&theme=chartreuse-dark&title_color=red&icon_color=red&text_color=green&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=ilyass&show_icons=true&theme=chartreuse-dark&title_color=red&icon_color=red&text_color=green&bg_color=000000"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=BogossBely&theme=highcontrast&ring=red&fire=green&currStreakLabel=green"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ilyass&theme=highcontrast&ring=red&fire=green&currStreakLabel=green"/>
 </p>
 
 ---
@@ -82,7 +90,7 @@
 <!-- LANGS -->
 ### 🔝 Most Used Languages  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=BogossBely&layout=compact&theme=dark&title_color=red&text_color=green&bg_color=000000"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ilyass&layout=compact&theme=dark&title_color=red&text_color=green&bg_color=000000"/>
 </p>
 
 ---
@@ -105,18 +113,7 @@
 </pre>
 </p>
 
----
 
-<!-- LONG SECTION: PROJECTS -->
-### 🚀 Evil Projects  
-
-- 🔥 **Cyber Attack Simulations** – building scripts to simulate penetration attacks  
-- 🕵️ **Stealth Recon Tools** – gathering intelligence silently  
-- 🌌 **Dark Web Crawlers** – exploring hidden networks  
-- 💉 **Exploit Frameworks** – custom payloads and shells  
-- 🛡️ **Defensive Walls** – building systems that survive chaos  
-
----
 
 <!-- LONG SECTION: TIMELINE -->
 ### 📜 Timeline  
