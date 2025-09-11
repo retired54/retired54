@@ -35,11 +35,11 @@
 <!-- ABOUT -->
 ### 🩸 About Me  
 
-- 💀 Passionate about **Cybersecurity** and **Web Development**  
-- 🔮 Exploring **deep knowledge in hacking and programming**  
-- 🌐 Living inside the **code**   
-- 🧠 Believer in **continuous learning** and **breaking systems**  
-- ⚡ Motto: *"Code is law, exploit is freedom"*  
+-    Passionate about **Cybersecurity** and **Web Development**  
+-    Exploring **deep knowledge in hacking and programming**  
+-    Living inside the **code**   
+-    Believer in **continuous learning**   
+-    Motto: *"Code is law, exploit is freedom"*  
 
 ---
 
