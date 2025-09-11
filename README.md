@@ -1,4 +1,10 @@
-<img width="1024" height="1024" alt="image" src="https://github.com/user-attachments/assets/22f3e0fc-33e0-442a-8b00-43fa03d02073" />
+<h1 align="center">
+  <span style="color:red;">REAL</span> <span style="color:green;">MUSLIM</span>
+</h1>
+
+<h2 align="center">
+  PROGRAMMER
+</h2>
 
 
                                                                             
