@@ -1,19 +1,60 @@
-<!--  Hacker Profile  -->
-
 <!-- HEADER -->
-<h1 align="center" style="color:red; background-color:black; padding:15px 30px; border-radius:15px; font-family:monospace; letter-spacing:2px;">
+<h1 align="center" style="
+    color:red; 
+    background-color:black; 
+    padding:20px 40px; 
+    border-radius:15px; 
+    font-family:monospace; 
+    letter-spacing:3px;
+    text-transform:uppercase;
+    animation: glow 1.5s infinite alternate;
+">
   REAL <span style="color:white;">MUSLIM</span>
 </h1>
 
-<h3 align="center" style="color:#00ff00; background-color:#111111; padding:10px 20px; border-radius:12px; font-family:monospace; letter-spacing:1px;">
-  ⚡ Cybersecurity | Web Development ⚡
+<h2 align="center" style="
+    color:#00ff00; 
+    background-color:#111111; 
+    padding:12px 25px; 
+    border-radius:12px; 
+    font-family:monospace; 
+    letter-spacing:2px;
+    text-transform:uppercase;
+    animation: slide 2s infinite alternate;
+">
+  Programmer
+</h2>
+
+<h3 align="center" style="
+    color:#00ffcc; 
+    font-family:monospace; 
+    letter-spacing:1px;
+    animation: pulse 1.2s infinite alternate;
+">
+  REAL MUSLIM
 </h3>
 
-<!-- Optional ASCII Decoration -->
-<p align="center">
-<pre style="color:white; background-color:black; padding:10px 20px; border-radius:10px; font-family:monospace;">
+<!-- CSS Animations -->
+<style>
+@keyframes glow {
+  0% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+  50% { text-shadow: 0 0 20px #ff0000, 0 0 30px #ff0000; }
+  100% { text-shadow: 0 0 5px #ff0000, 0 0 10px #ff0000; }
+}
 
----
+@keyframes slide {
+  0% { transform: translateX(-10px); }
+  50% { transform: translateX(10px); }
+  100% { transform: translateX(-10px); }
+}
+
+@keyframes pulse {
+  0% { color: #00ffcc; transform: scale(1); }
+  50% { color: #ffffff; transform: scale(1.1); }
+  100% { color: #00ffcc; transform: scale(1); }
+}
+</style>
+
 
 <!-- ASCII Banner -->
 <p align="center">                                                             
