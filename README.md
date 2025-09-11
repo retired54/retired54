@@ -1,5 +1,5 @@
 <p align="center">
-  <kbd>REAL <span style="color:white;">MUSLIM</span></kbd>
+  <kbd>#REAL <span style="color:white;">#MUSLIM*</span></kbd>
 </p>
 
 <p align="center">
