@@ -1,10 +1,12 @@
 <h1 align="center">
-  <span style="color:red;">REAL</span> <span style="color:green;">MUSLIM</span>
+  <span style="color:red;">REAL</span> 
+  <span style="color:green;">MUSLIM</span>
 </h1>
 
-<h2 align="center">
+<h2 align="center" style="color:brown;">
   PROGRAMMER
 </h2>
+
 
 
                                                                             
