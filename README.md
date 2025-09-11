@@ -1,14 +1,9 @@
-
-
 <p align="center">
-  <img src="https://img.shields.io/badge/REAL-red?style=for-the-badge&logo=github&logoColor=white" alt="REAL"/>
-  <img src="https://img.shields.io/badge/MUSLIM-green?style=for-the-badge&logo=github&logoColor=white" alt="MUSLIM"/>
+  <img src="https://media.giphy.com/media/3oEjI6SIIHBdRxXI40/giphy.gif" alt="REAL MUSLIM moving" width="400"/>
 </p>
 
-<h2 align="center">PROGRAMMER</h2>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/l0HlQ7LRalrpXfOFO/giphy.gif" width="200" alt="moving effect"/>
+<p align="center" style="font-size:32px; font-weight:bold;">
+  PROGRAMMER
 </p>
 
                                                                             
