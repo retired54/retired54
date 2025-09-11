@@ -5,7 +5,7 @@
    Programmer 
 </h1>
 <h3 align="center" style="color:green">
-  Cybersecurity | Web Development | Hacking the Matrix
+  Cybersecurity | Web Development 
 </h3>
 
 ---
