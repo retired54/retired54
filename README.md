@@ -1,13 +1,11 @@
 <!--  Hacker Profile  -->
 
 <!-- HEADER -->
-<!-- HEADER -->
-<h1 align="center" style="color:red; background-color:black; padding:15px; border-radius:15px; font-family:monospace; text-shadow:2px 2px 5px #00ff00;">
-   Programmer
+<h1 align="center" style="color:red; background-color:black; padding:10px; border-radius:10px;">
+  REAL <span style="color:white;">MUSLIM</span>
 </h1>
-
-<h3 align="center" style="color:#00ff00; background-color:#111111; padding:10px; border-radius:10px; font-family:monospace; text-shadow:1px 1px 3px #ff0000;">
-  Cybersecurity | Web Development
+<h3 align="center" style="color:white; background-color:black; padding:5px 15px; border-radius:10px;">
+  ⚡ Cybersecurity | Web Development ⚡
 </h3>
 
 ---
