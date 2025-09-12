@@ -69,16 +69,11 @@
 ### 🛠️ Tools of Chaos
 <p align="center">
   <img width="123" height="60" alt="image" src="https://github.com/user-attachments/assets/1e05cac1-247b-4040-ad7e-339093b33b99" />
-  <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=black"/>
-  <img src="https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-green?style=for-the-badge&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Node.js-red?style=for-the-badge&logo=node.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kali_Linux-green?style=for-the-badge&logo=kalilinux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bash-red?style=for-the-badge&logo=gnu-bash&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Metasploit-green?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Wireshark-red?style=for-the-badge&logo=wireshark&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-green?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img width="165" height="60" alt="image" src="https://github.com/user-attachments/assets/59520cfc-d78b-4ff2-84f9-af4320dc3796" />
+  <img width="165" height="60" alt="image" src="https://github.com/user-attachments/assets/5237df9e-a55d-4a97-bdec-61b89f384a5e" />
+  <img width="114" height="60" alt="image" src="https://github.com/user-attachments/assets/3c78d3e2-9aa8-450a-8741-b492d5406055" />
+
+
 </p>
 
 
@@ -86,6 +81,8 @@
 ### 🔝 Most Used Languages  
 
 <p align="center" style="background-color:black; padding:15px; border-radius:10px;">
+  <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/20b9d290-cd15-4ca9-bbd3-481f3224fdf9" />
+
   <img src="https://img.shields.io/badge/Python-white?style=for-the-badge&logo=python&logoColor=blue"/>
   <img src="https://img.shields.io/badge/C++-white?style=for-the-badge&logo=c%2B%2B&logoColor=00599C"/>
   <img src="https://img.shields.io/badge/JavaScript-white?style=for-the-badge&logo=javascript&logoColor=f7df1e"/>
