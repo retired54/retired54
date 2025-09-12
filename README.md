@@ -54,7 +54,7 @@
   <img width="165" height="60" alt="image" src="https://github.com/user-attachments/assets/59520cfc-d78b-4ff2-84f9-af4320dc3796" />
   <img width="498" height="48" alt="image" src="https://github.com/user-attachments/assets/3b903bc8-2445-4d31-915a-9829411dcc39" />
 
-  <img width="114" height="60" alt="image" src="https://github.com/user-attachments/assets/3c78d3e2-9aa8-450a-8741-b492d5406055" />
+ 
 
 
 </p>
@@ -64,7 +64,7 @@
 ### 🔝 Most Used Languages  
 
 <p align="center" style="background-color:black; padding:15px; border-radius:10px;">
-
+  <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/20b9d290-cd15-4ca9-bbd3-481f3224fdf9" />
   
 </p>
 
