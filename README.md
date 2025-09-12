@@ -1,6 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://www.flamingtext.com/net-fu/proxy_form.cgi?script=alien-glow-logo&text=REAL+MUSLIM+PROGRAMMER&_loc=logo&imageoutput=true" alt="REAL MUSLIM PROGRAMMER" />
+  <img src="https://www.flamingtext.com/Tools/download/flamingtext_com.gif?url=https://ov16-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-3097080170.gif&_loc=image" />
 </p>
 " />
 </p>
