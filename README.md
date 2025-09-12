@@ -58,9 +58,9 @@
 ---
 
 <!-- Quote -->
-### Hacker's Quote  
-<p align="center" style="color:green">
-**In the silence of the shadow, the greatest code is born**
+ ## Hacker's Quote  
+
+**In the silence of the shadow, the greatest of codes is born**
 
   
 </p>
