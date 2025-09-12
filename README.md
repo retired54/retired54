@@ -64,7 +64,7 @@
 ### 🔝 Most Used Languages  
 
 <p align="center" style="background-color:black; padding:15px; border-radius:10px;">
-  <img width="300" height="165" alt="image" src="https://github.com/user-attachments/assets/20b9d290-cd15-4ca9-bbd3-481f3224fdf9" />
+
   
 </p>
 
