@@ -60,8 +60,9 @@
 <!-- Quote -->
 ### Hacker's Quote  
 <p align="center" style="color:green">
-  "**In the silence of the shadow, the greatest code is born**"
-  "**who holds all corners of the field becomes qualified to show the true power of the mind**" 
+**In the silence of the shadow, the greatest code is born**
+
+  
 </p>
 
 ---
