@@ -65,8 +65,6 @@
   
 </p>
 
----
-
 <!-- LANGUAGES & TOOLS -->
 ### 🛠️ Tools of Chaos
 <p align="center">
