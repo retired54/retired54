@@ -60,7 +60,8 @@
 <!-- Quote -->
 ### Hacker's Quote  
 <p align="center" style="color:green">
-  "Life has not been bestowed upon all"  
+  "**In the silence of the shadow, the greatest code is born**"
+  "**who holds all corners of the field becomes qualified to show the true power of the mind**" 
 </p>
 
 ---
