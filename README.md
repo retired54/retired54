@@ -46,7 +46,7 @@
 -    Exploring **deep knowledge in hacking and programming**  
 -    Living inside the **code**   
 -    Believer in **continuous learning**   
--    Motto: *"Code is law, exploit is freedom"*  
+-    Motto: *"Code is the poetry the machine understands, but the world feels its rhythm"*  
 
 ---
 
