@@ -1,6 +1,6 @@
 <p align="center">
   <img src="<p align="center">
-  <img src="https://www.flamingtext.com/Tools/download/flamingtext_com.gif?url=https://ov16-engine.flamingtext.com/netfu/tmp28001/flamingtext_com-3097080170.gif&_loc=image" />
+  <img src="C:\Users\ilyas\Downloads\flamingtext_com-3097080170.gif" />
 </p>
 " />
 </p>
