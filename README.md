@@ -1,6 +1,13 @@
+
+
+
+
+
+![flamingtext_com-3097080170](https://github.com/user-attachments/assets/ffa2e604-4a83-4532-a16a-1118ad22f8a4)
+
 <p align="center">
   <img src="<p align="center">
-  <img src="C:\Users\ilyas\Downloads\flamingtext_com-3097080170.gif" />
+  <img src="https://github.com/user-attachments/assets/ffa2e604-4a83-4532-a16a-1118ad22f8a4" />
 </p>
 " />
 </p>
