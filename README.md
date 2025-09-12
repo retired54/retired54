@@ -33,7 +33,7 @@
 
 <!-- VISITORS BADGE -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=BogossBely&label=Visitors&color=red&style=flat" alt="profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=retired&label=Visitors&color=red&style=flat" alt="profile views"/>
 </p>
 
 ---
