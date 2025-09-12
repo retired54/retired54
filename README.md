@@ -19,34 +19,16 @@
 
 
 
-                                                                            
-                           / /                                               ██
-      ██ ██  ██           / /   ███╗   ███╗██╗   ██     ██ ██        ██     
-      ██       ██        / /    ████╗ ████║██║   ██     ██           ██║     ██║████╗ ████║
-      ██  ██  ██        / /     ██╔████╔██║██║   ██       ██         ██║     ██║██╔████╔██║
-      ██      ██       / /      ██║╚██╔╝██║██║   ██         ██       ██║     ██║██║╚██╔╝██║
-      ██        ██    / /       ██║ ╚═╝ ██║╚██████╔╝    ██ ██       ╗███████╗██║██║ ╚═╝ ██║
-                     / /                                   
-
-
-
-
-
-  
-         
-</pre> 
-</p>
-
----
+                                                                          
 
 <!-- ABOUT -->
 ### 🩸 About Me  
 
 -    Passionate about **Cybersecurity** and **Web Development**  
 -    Exploring **deep knowledge in hacking and programming**  
--    Living inside the **code**   
+-    Living inside the **bottom**   
 -    Believer in **continuous learning**   
--    Motto: *"Code is the poetry the machine understands, but the world feels its rhythm"*  
+-    Motto: **"Code is the poetry the machine understands, but the world feels its rhythm"** 
 
 ---
 
@@ -66,7 +48,7 @@
 </p>
 
 <!-- LANGUAGES & TOOLS -->
-### 🛠️ Tools of Chaos
+###  Tools 
 <p align="center">
   <img width="123" height="60" alt="image" src="https://github.com/user-attachments/assets/1e05cac1-247b-4040-ad7e-339093b33b99" />
   <img width="165" height="60" alt="image" src="https://github.com/user-attachments/assets/59520cfc-d78b-4ff2-84f9-af4320dc3796" />
