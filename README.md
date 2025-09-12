@@ -68,6 +68,7 @@
 <!-- LANGUAGES & TOOLS -->
 ### 🛠️ Tools of Chaos
 <p align="center">
+  <img width="123" height="60" alt="image" src="https://github.com/user-attachments/assets/1e05cac1-247b-4040-ad7e-339093b33b99" />
   <img src="https://img.shields.io/badge/Python-red?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-green?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/TypeScript-red?style=for-the-badge&logo=typescript&logoColor=white"/>
