@@ -39,7 +39,7 @@
 ---
 
 <!-- Quote -->
- ## Hacker's Quote  
+ ## programmer's Quote  
 
 **In the silence of the shadow, the greatest of codes is born**
 
