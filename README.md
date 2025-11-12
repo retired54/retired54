@@ -13,7 +13,7 @@
 </h1>
 
 <h2 align="center" style="color:brown;">
-  PROGRAMMER + EDITOR
+  PROGRAMMER + EDITOR + PAINTER
 </h2>
 
 
